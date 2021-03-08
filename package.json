@@ -1,0 +1,22 @@
+{
+  "name": "close-way",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skorobahatko/close-way.git"
+  },
+  "author": "maxim.skorobagatko@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skorobahatko/close-way/issues"
+  },
+  "homepage": "https://github.com/skorobahatko/close-way#readme"
+}
